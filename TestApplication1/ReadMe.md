@@ -2,7 +2,6 @@
 It is a learning excercise for visual studio and Github for software testers
 
 
-
 ## Purpose
 This (ReadMe) file is created to verify hash tags and uploading a project to Github, 
 making a copy from Github
